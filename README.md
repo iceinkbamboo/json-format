@@ -24,6 +24,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### 安装xlsx
-npm install --save xlsx
